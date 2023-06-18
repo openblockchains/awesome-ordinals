@@ -17,8 +17,9 @@ See the talk notes titled
 Bitcoin (BTC)
 
 - <https://ordinals.com>   - the original that started it all  - inscriptions referenced by `/content/<inscription_id>`
-- <https://ord.io>     - inscriptions referenced by `<inscription_num>`
-- <https://ordiscan.com>
+- <https://ord.io>     - inscriptions referenced by `/<inscription_num>`
+- <https://ordiscan.com>   - inscriptions referenced by `/inscription/<inscription_num>`
+
 
 **Search In Text Inscription Services**
 
