@@ -67,6 +67,14 @@ World's 1st ORC-721  -  [721 D.I.Y. Punks](https://twitter.com/diypunksnfts)
 
 
 
+## Awesome Awesomeness
+
+_More awesome lists_
+
+- [Awesome Ordinals @ crypt0biwan](https://github.com/crypt0biwan/awesome-ordinals)
+- [Awesome Ordinals @ neu-fi](https://github.com/neu-fi/awesome-ordinals)
+
+
 ## Questions? Comments?
 
 Post them over at the [Help & Support](https://github.com/geraldb/help) page. Thanks.
