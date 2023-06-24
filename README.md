@@ -98,11 +98,11 @@ Recursive inscriptions. check. What's next?  How about an (ordinal) js sdk.
 >
 >  Bob Bodily comments:
 > 
->>  I think with a JS SDK you get most of what you are looking for:
+>>  With a JS SDK you get most of what you are looking for:
 >>
->> - SDK is efficient because you only have to inscribe the SDK once and it can easily be loaded into other inscriptions
+>> - SDK is efficient because you only have to inscribe the SDK once and it can be loaded into other inscriptions
 >> - SDK has bitcoin and ordinals primitives built-in
->> - I think safeguards and limitations need to be built into explorers, wallets, and marketplaces anyway, so a client side SDK could serve this purpose
+>> - Safeguards and limitations need to be built into explorers, wallets, and marketplaces anyway, so a client side SDK could serve this purpose
 >> - Recursion / compression / calling other libraries could all be built into SDK
 >> - Reinscription / sat references for storage and referencing other inscriptions could be built-in to SDK
 >>
