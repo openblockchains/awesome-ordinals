@@ -76,7 +76,7 @@ Can it get any more stupid than that?!  Public service announcement -  please le
 code is more like a baby (or a garden) ... a living creature (or ecosystem) ... day-to-day, month-to-month, year-to-year care (and love) needed .... now try to update your code inscribed on bitcoin one time, two times, three times ... a hundred times ... see the stupidity? 
 Use a protocol (and data formats).   Anyways,  wen BITCOIN ON BITCOIN ON BITCOIN?    
 The new internet? a 500(!) GB database. the possibilites are limited to 4MB per block. get real. 
-wen bigger blocks? PS: What is this (open source) code about here -> [ordinals/ord/commits](https://github.com/ordinals/ord/commits/master). hy is it always changing? please STOP now and INSCRIBE!
+wen bigger blocks? PS: What is this (open source) code about here -> [ordinals/ord/commits](https://github.com/ordinals/ord/commits/master). why is this code always changing? please STOP now and INSCRIBE!
 
 
 
