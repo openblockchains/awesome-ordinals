@@ -56,6 +56,13 @@ World's 1st ORC-721  -  [721 D.I.Y. Punks](https://twitter.com/diypunksnfts)
 - brc-721 by ??   - see <https://brc721.com>   -   BEWARE!  "off-chain" meta links
 - bitgen by Bob Bodily   - see <https://bioniq-1.gitbook.io/bitgen-bitcoin-generative-ordinals-standard-alpha> - "on-chain"
 
+
+### More Protocols
+
+[Ordinals Standards Proposals](https://patches-1.gitbook.io/ordinals-standards-discussions) @ Ordinals Standards Discussions   
+incl. BRC-20, BRC-20 (Update), ORC-20, SRC-20, BRC-30, and more
+
+
 ### Inscribed Javascript (.js) Code  
 
 See [Ordinal Public Goods](https://github.com/jokie88/ordinalpublicgoods) - A list of js libraries 
