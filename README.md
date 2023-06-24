@@ -51,15 +51,18 @@ World's 1st ORC-721  -  [721 D.I.Y. Punks](https://twitter.com/diypunksnfts)
 
 **More**
 
-- gen-brc-721  - see <https://github.com/jerryfane/generative-brc-721>  - "on-chain"
-- crc-721   - see <https://github.com/kelvinink/crc-721>  - "on-chain"
-- brc-721    - see <https://brc721.com>   -   BEWARE!  "off-chain" meta links
-
+- gen-brc-721  by Jerry Fanelli  - see <https://github.com/jerryfane/generative-brc-721>  - "on-chain"
+- crc-721 by Kelvin ??   - see <https://github.com/kelvinink/crc-721>  - "on-chain"
+- brc-721 by ??   - see <https://brc721.com>   -   BEWARE!  "off-chain" meta links
+- bitgen by Bob Bodily   - see <https://bioniq-1.gitbook.io/bitgen-bitcoin-generative-ordinals-standard-alpha> - "on-chain"
 
 ### Inscribed Javascript (.js) Code  
 
-See [Ordinal Public Goods]() - A list of js libraries 
-and other resources inscribed on bitcoin. Use it to lower the cost of your inscriptions  incl. jquery, p5.js, three.js and more.
+See [Ordinal Public Goods](https://github.com/jokie88/ordinalpublicgoods) - A list of js libraries 
+and other resources inscribed on bitcoin. Use it to lower the cost of your inscriptions  
+incl. [jquery](https://ordinals.com/inscription/773e4865bcf3084e6d6ee5d49136fb5f7071d4c050ec4aeeaeb9c6d24fea5fc1i0) (87462 bytes), 
+[p5.js](https://ordinals.com/inscription/255ce0c5a0d8aca39510da72e604ef8837519028827ba7b7f723b7489f3ec3a4i0) (287424 bytes gzipped), 
+[three.js](https://ordinals.com/inscription/2dbdf9ebbec6be793fd16ae9b797c7cf968ab2427166aaf390b90b71778266abi0) (250274 bytes gzipped) and more.
 
 > Every day more code is inscribed to Bitcoin.
 >
