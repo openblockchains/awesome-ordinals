@@ -106,9 +106,9 @@ Recursive inscriptions. check. What's next?  How about an (ordinal) js sdk.
 >> - Recursion / compression / calling other libraries could all be built into SDK
 >> - Reinscription / sat references for storage and referencing other inscriptions could be built-in to SDK
 >>
->>  Taking advantage of the network effects, libraries,
->>  and native browser support of JS makes any additional scripting language a hard sell.
->>  Efficiency (every byte matters) is an interesting argument, but I'm not sure its enough.
+>>  Network effects, libraries,
+>>  and (native) browser support of JS makes any new scripting language a hard sell - 
+>>  efficiency (every byte matters) is that enough?
 
 Not using (ordinal) js sdk? Are your recursive "custom roll-your-own js" inscriptions ded? Please, update your "legacy" inscribes.
 
