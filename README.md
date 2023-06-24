@@ -56,6 +56,27 @@ World's 1st ORC-721  -  [721 D.I.Y. Punks](https://twitter.com/diypunksnfts)
 - brc-721    - see <https://brc721.com>   -   BEWARE!  "off-chain" meta links
 
 
+### Inscribed Javascript (.js) Code  
+
+See [Ordinal Public Goods]() - A list of js libraries 
+and other resources inscribed on bitcoin. Use it to lower the cost of your inscriptions  incl. jquery, p5.js, three.js and more.
+
+> Every day more code is inscribed to Bitcoin.
+>
+> The more code we inscribe, the more building blocks there are for others to leverage.
+>
+> Bitcoin is a new internet.
+>
+> The possibilities are endless.
+
+Can it get any more stupid than that?!  Public service announcement -  please learn the difference between data and code - 
+code is more like a baby (or a garden) ... a living creature (or ecosystem) ... day-to-day, month-to-month, year-to-year care (and love) needed .... now try to update your code inscribed on bitcoin one time, two times, three times ... a hundred times ... see the stupidity? 
+Use a protocol (and data formats).   Anyways,  wen BITCOIN ON BITCOIN ON BITCOIN?    
+The new internet? a 500(!) GB database. the possibilites are limited to 4MB per block. get real. 
+wen bigger blocks? PS: What is this (open source) code about here -> [ordinals/ord/commits](https://github.com/ordinals/ord/commits/master). hy is it always changing? please STOP now and INSCRIBE!
+
+
+
 ## Alternate Numbering & Storage Schemes
 
 ### Stamps  w/ Counterparty
