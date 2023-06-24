@@ -51,10 +51,10 @@ World's 1st ORC-721  -  [721 D.I.Y. Punks](https://twitter.com/diypunksnfts)
 
 **More**
 
-- gen-brc-721  by Jerry Fanelli  - see <https://github.com/jerryfane/generative-brc-721>  - "on-chain"
-- crc-721 by Kelvin ??   - see <https://github.com/kelvinink/crc-721>  - "on-chain"
+- gen-brc-721  by [Jerry Fanelli](https://github.com/jerryfane)  - see <https://github.com/jerryfane/generative-brc-721>  - "on-chain"
+- crc-721 by [Kelvin Liang](https://github.com/kelvinink)   - see <https://github.com/kelvinink/crc-721>  - "on-chain"
 - brc-721 by ??   - see <https://brc721.com>   -   BEWARE!  "off-chain" meta links
-- bitgen by Bob Bodily   - see <https://bioniq-1.gitbook.io/bitgen-bitcoin-generative-ordinals-standard-alpha> - "on-chain"
+- bitgen by [Bob Bodily](https://github.com/bodily11)   - see <https://bioniq-1.gitbook.io/bitgen-bitcoin-generative-ordinals-standard-alpha> - "on-chain"
 
 
 ### More Protocols
@@ -85,6 +85,32 @@ Use a protocol (and data formats).   Anyways,  wen BITCOIN ON BITCOIN ON BITCOIN
 The new internet? a 500(!) GB database. the possibilites are limited to 4MB per block. get real. 
 wen bigger blocks? PS: What is this (open source) code about here -> [ordinals/ord/commits](https://github.com/ordinals/ord/commits/master). why is this code always changing? please STOP now and INSCRIBE!
 
+
+## Ordinal Javascript (.js) SDK - SOON!  
+
+Recursive inscriptions. check. What's next?  How about an (ordinal) js sdk.
+
+> An idea: OrdScript - an ordinals native programming language that is super efficient in programming size
+> (like GolfScript) and Bitcoin Ordinals aware. OrdScript can be run by browsers
+>  through a run time compiler in js that is automatically loaded via a recursive inscription.
+>
+>  o o o
+>
+>  Bob Bodily comments:
+> 
+>>  I think with a JS SDK you get most of what you are looking for:
+>>
+>> - SDK is efficient because you only have to inscribe the SDK once and it can easily be loaded into other inscriptions
+>> - SDK has bitcoin and ordinals primitives built-in
+>> - I think safeguards and limitations need to be built into explorers, wallets, and marketplaces anyway, so a client side SDK could serve this purpose
+>> - Recursion / compression / calling other libraries could all be built into SDK
+>> - Reinscription / sat references for storage and referencing other inscriptions could be built-in to SDK
+>>
+>>  Taking advantage of the network effects, libraries,
+>>  and native browser support of JS makes any additional scripting language a hard sell.
+>>  Efficiency (every byte matters) is an interesting argument, but I'm not sure its enough.
+
+Not using (ordinal) js sdk? Are your recursive "custom roll-your-own js" inscriptions ded? Please, update your "legacy" inscribes.
 
 
 ## Alternate Numbering & Storage Schemes
