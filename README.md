@@ -59,6 +59,13 @@ World's 1st ORC-721  -  [721 D.I.Y. Punks](https://twitter.com/diypunksnfts)
 
 ### More Protocols
 
+**Ord Games**
+
+- <https://docs.ord.games> - protocol v1 (boot new game, mint new player, mint loot ...)
+  - <https://docs.ord.games/wizords-game>  - Wizords (1st Ord Game) -- a battle game where you mint wizords, orcs, and other beasts, then assemble a war chest of weapons, armor, and magic items  
+
+**More**
+
 [Ordinals Standards Proposals](https://patches-1.gitbook.io/ordinals-standards-discussions) @ Ordinals Standards Discussions   
 incl. BRC-20, BRC-20 (Update), ORC-20, SRC-20, BRC-30, and more
 
