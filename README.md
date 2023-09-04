@@ -31,7 +31,7 @@ Bitcoin (BTC)
 
 ### Sats Names (SNS) 
 
-_World's 1st Ordinal (Text) Protocol - Name Registration Service (.sats, .ord, .gm, .btc, .bitmap, and many more)_
+_World's 1st Ordinal (Text & JSON5) Protocol - Name Registration Service (.sats, .ord, .gm, .btc, .bitmap, and many more)_
 
 see [Sats Names Docu »](https://docs.satsnames.org)
 
@@ -56,7 +56,7 @@ Total Namespace Holders – 101,335
 
 More
 
-- <https://zin.so>  - browse inscriptions by sats names (e.g. bitcoint.paper, breakout.game, blackalbum.sats ...)
+- <https://zin.so>  - browse bitcoin inscriptions by sats names (e.g. [bitcoin.paper](https://zin.so/bitcoin.paper), [breakout.game](https://zin.so/breakout.game), [blackalbum.sats](https://zin.so/blackalbum.sats) ...)
 
 
 
@@ -169,7 +169,8 @@ _More awesome lists_
 
 ## Questions? Comments?
 
-Post them over at the [Help & Support](https://github.com/geraldb/help) page. Thanks.
 
 
+
+Or post them over at the [Help & Support](https://github.com/geraldb/help) page. Thanks.
 
