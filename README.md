@@ -62,9 +62,16 @@ More
 
 ### BRC-20
 
-_Fungible Tokens_
+_Fungible Tokens (with four letter tickers e.g. ORDI, MEME, PUNK, PEPE, and many more)_
 
-World's 1st  BRC-20  -  ORDI - Max. 21 Million   
+see [BRC-20 (Experiment) Docu »](https://domo-2.gitbook.io/brc-20-experiment)
+
+World's 1st  BRC-20  - ORDI - max. 21 million  - [deploy inscribe no. 348 020](https://ordinals.com/inscription/b61b0172d95e266c18aea0c624db987e971a5d6d4ebc2aaed85da4642d635735i0) on March 8th, 2023.  
+
+Indexer / Markets
+
+- <https://unisat.io/brc20> - full token balance state and explorer functionality
+
 
 
 
