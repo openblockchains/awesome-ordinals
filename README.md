@@ -12,7 +12,23 @@ See the talk notes titled
 [**Inside Ordinal Inscriptions - Turn the Blockchain Into A Database For Digital Artefacts »**](https://github.com/pixelartexchange/ordinals.sandbox/tree/master/insideordinals)
 
 
+
+
+
+## Are (Bitcoin) Ordinals Dead?
+
+Let's check the %-percentage of ordinals transactions (tx) 
+per bitcoin block.
+
+
+![](i/ordinalsdead.png)
+
+
+(Source: [dune.com/.../are-ordinals-dead](https://dune.com/j543/are-ordinals-dead) by Jerry Fanelli)
+
+
 ## Ordinal Browser / Explorer / Directories
+
 
 Bitcoin (BTC)
 
@@ -88,7 +104,11 @@ _Ordinal (Recursive) Generative 100% "On-Chain" Collections_
 
 see [Generative ORC-721 Protocol / Standard for Bitcoin & Co. (Also Known As OG, Ordgen, Ordinal Generative) »](https://github.com/ordbase/generative-orc-721)
 
-World's 1st ORC-721  -  [721 D.I.Y. Punks](https://twitter.com/diypunksnfts)
+World's 1st ORC-721  -  [721 D.I.Y. Punks](https://twitter.com/diypunksnfts) -
+[deploy inscribe no. 9 947 030](https://ordinals.com/inscription/753f663770d816f61acd35da8dd04e122eec8582e93ca36b2122f2d4ac206089i0) on May 29th, 2023 by [@ZimmerAllDay](https://twitter.com/zimmerallday)
+
+![](i/diypunks.png)
+
 
 
 **More**
