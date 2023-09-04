@@ -35,7 +35,8 @@ _World's 1st Ordinal (Text & JSON5) Protocol - Name Registration Service (.sats,
 
 see [Sats Names Docu »](https://docs.satsnames.org)
 
-Sats Names (SNS) launched on block 777847 on Feb 22nd, 2023.
+Sats Names (SNS) launched with `helloworld.sats` reg(istration) [inscribe no. 162 759)](https://ordinals.com/inscription/3493e9e997cf3e3c48bb6c92cd5aebec7ced6b0fa95af5960c4282e379f8cdd8i0) on Feb 22nd, 2023 on block 777847.
+
 
 Stats (as of Aug/30, 2023)
 
