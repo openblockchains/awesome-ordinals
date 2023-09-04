@@ -16,10 +16,10 @@ See the talk notes titled
 
 Bitcoin (BTC)
 
-- <https://ordinals.com>   - the original that started it all  - inscriptions referenced by `/content/<inscription_id>`
+- <https://ordinals.com>   - the original that started it all  - inscriptions referenced by `/inscription/<inscription_id>`
 - <https://ord.io>     - inscriptions referenced by `/<inscription_num>`
 - <https://ordiscan.com>   - inscriptions referenced by `/inscription/<inscription_num>`
-
+- <https://ordinalscan.net>  - inscriptions referenced by `/inscription/<inscription_id>`
 
 **Search In Text Inscription Services**
 
@@ -29,7 +29,35 @@ Bitcoin (BTC)
 
 ## Ordinal Protocols
 
-### Sat Names
+### Sats Names (SNS) 
+
+_World's 1st Ordinal (Text) Protocol - Name Registration Service (.sats, .ord, .gm, .btc, .bitmap, and many more)_
+
+see [Sats Names Docu »](https://docs.satsnames.org)
+
+Sats Names (SNS) launched on block 777847 on Feb 22nd, 2023.
+
+Stats (as of Aug/30, 2023)
+
+Top 5 Namespace Reg (All Time)
+
+- .bitmap – 827,511
+- .sats – 410,196
+- .btc – 238,828
+- .unisat – 59,249
+- .x – 39,899
+
+Total Names (All Namespaces) – 1,920,319
+
+Total Namespace Holders – 101,335
+
+(Source: [geniidata.com/.../sns](https://geniidata.com/user/snsfan/sns))
+
+
+More
+
+- <https://zin.so>  - browse inscriptions by sats names (e.g. bitcoint.paper, breakout.game, blackalbum.sats ...)
+
 
 
 ### BRC-20
