@@ -90,7 +90,7 @@ _Fungible Tokens (with four letter tickers e.g. ORDI, MEME, PUNK, PEPE, and many
 see [BRC-20 (Experiment) Docu »](https://domo-2.gitbook.io/brc-20-experiment)
 
 > There have been 23 926 BRC-20 ordinal inscriptions in the past 24 hours.
-> It only took six weeks for people to figure out how to use ordinals to make fungible meme coins.
+> It only took six weeks for people to figure out how to use ordinals to make fungible meme coins [on bitcoin].
 >
 > -- [Leonidas, March 9th, 2023](https://twitter.com/LeonidasNFT/status/1633926796943998978)
 >
