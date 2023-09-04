@@ -89,11 +89,27 @@ _Fungible Tokens (with four letter tickers e.g. ORDI, MEME, PUNK, PEPE, and many
 
 see [BRC-20 (Experiment) Docu »](https://domo-2.gitbook.io/brc-20-experiment)
 
-World's 1st  BRC-20  - ORDI - max. 21 million  - [deploy inscribe no. 348 020](https://ordinals.com/inscription/b61b0172d95e266c18aea0c624db987e971a5d6d4ebc2aaed85da4642d635735i0) on March 8th, 2023.  
+> There have been 23 926 BRC-20 ordinal inscriptions in the past 24 hours.
+> It only took six weeks for people to figure out how to use ordinals to make fungible meme coins.
+>
+> -- [Leonidas, March 9th, 2023](https://twitter.com/LeonidasNFT/status/1633926796943998978)
+>
+
+World's 1st  BRC-20  - ORDI - max. 21 million  - [deploy inscribe no. 348 020](https://ordinals.com/inscription/b61b0172d95e266c18aea0c624db987e971a5d6d4ebc2aaed85da4642d635735i0) on March 8th, 2023
+by [@domo](https://twitter.com/domodata/status/1633658974686855168)
+
+> in less than 18 hours, all 21,000,000 ordi tokens had been minted,
+> with pending mints for an additional 1,500,000 ordi tokens that were not within the limit.
 
 Indexer / Markets
 
 - <https://unisat.io/brc20> - full token balance state and explorer functionality
+
+
+More BRC-20 Trivia
+
+> You **cannot** transfer BRC-20 tokens by transferring the inscription.
+> You **must** use the BRC-20 transfer function as specified in the BRC-20 token standard.
 
 
 
