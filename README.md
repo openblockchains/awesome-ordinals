@@ -26,6 +26,12 @@ Bitcoin (BTC)
 - <https://unisat.io/search>
 
 
+**More**
+
+[Sub 1k - Inside The First Thousand Ordinal Inscriptions @ Programming (Bitcoin) Ordinals Book / Guide](https://github.com/ordbase/ordbase/blob/master/programming-ordinals/sub1k.md)
+
+[Sub 1k - Inside The First Thousand Ordinal (Litecoin) Inscriptions @  Programming (Litecoin) Ordinals Book / Guide](https://github.com/ordbase/ordbase/blob/master/programming-ordinals/ltc_sub1k.md)
+
 
 ## Ordinal Protocols
 
@@ -35,7 +41,7 @@ _World's 1st Ordinal (Text & JSON5) Protocol - Name Registration Service (.sats,
 
 see [Sats Names Docu »](https://docs.satsnames.org)
 
-Sats Names (SNS) launched with `helloworld.sats` reg(istration) [inscribe no. 162 759)](https://ordinals.com/inscription/3493e9e997cf3e3c48bb6c92cd5aebec7ced6b0fa95af5960c4282e379f8cdd8i0) on Feb 22nd, 2023 on block 777847.
+Sats Names (SNS) launched with `helloworld.sats` reg(istration) [inscribe no. 162 759](https://ordinals.com/inscription/3493e9e997cf3e3c48bb6c92cd5aebec7ced6b0fa95af5960c4282e379f8cdd8i0) on Feb 22nd, 2023 on block 777847.
 
 
 Stats (as of Aug/30, 2023)
@@ -156,6 +162,10 @@ Recursive inscriptions. check. What's next?  How about an (ordinal) js sdk.
 Not using (ordinal) js sdk? Are your recursive "custom roll-your-own js" inscriptions ded? Please, update your "legacy" inscribes.
 
 
+
+
+
+
 ## Alternate Numbering & Storage Schemes
 
 ### Stamps  w/ Counterparty
@@ -177,8 +187,8 @@ _More awesome lists_
 
 ## Questions? Comments?
 
-
-
+Join us in the [Ordgen / ORC-721 discord (chat server)](https://discord.gg/dDhvHKjm2t). Yes you can.
+Your questions and commetary welcome.
 
 Or post them over at the [Help & Support](https://github.com/geraldb/help) page. Thanks.
 
