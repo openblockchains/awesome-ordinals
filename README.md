@@ -9,8 +9,7 @@ _Turn the Blockchain Into A Database For Digital Artefacts_
 
 New to Ordinals?
 See the talk notes titled
-[**Inside Ordinal Inscriptions - Turn the Blockchain Into A Database For Digital Artefacts »**](https://github.com/pixelartexchange/ordinals.sandbox/tree/master/insideordinals)
-
+[**Inside Ordinal Inscriptions - Turn the Blockchain Into A Database For Digital Artefacts »**](https://github.com/geraldb/talks/blob/master/insideordinals.md)
 
 
 
