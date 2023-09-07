@@ -40,6 +40,7 @@ Bitcoin (BTC)
 **Search In Text Inscription Services**
 
 - <https://unisat.io/search>
+- <https://explord.org/search>
 
 
 **More**
