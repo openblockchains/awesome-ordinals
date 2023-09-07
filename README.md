@@ -35,6 +35,7 @@ Bitcoin (BTC)
 - <https://ord.io>     - inscriptions referenced by `/<inscription_num>`
 - <https://ordiscan.com>   - inscriptions referenced by `/inscription/<inscription_num>`
 - <https://ordinalscan.net>  - inscriptions referenced by `/inscription/<inscription_id>`
+- <https://explord.org>  - inscriptions referenced by `/inscription/<inscription_num>`
 
 **Search In Text Inscription Services**
 
